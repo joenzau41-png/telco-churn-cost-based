@@ -1,0 +1,7 @@
+{
+  "threshold": 0.25,
+  "offer_cost": 50,
+  "customer_value": 780,
+  "success_rate": 0.3,
+  "test_net_savings": 40452.0
+}
